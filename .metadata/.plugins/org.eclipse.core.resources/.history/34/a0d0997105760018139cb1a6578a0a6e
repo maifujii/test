@@ -1,0 +1,20 @@
+/**
+ *
+ */
+
+/**
+ * @author testuser
+ *
+ */
+public class HelloWorld {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {		// TODO 自動生成されたメソッド・スタブ
+
+		String b="高橋";
+		if(b="高橋"){System.out.println(b+"さん");
+	}
+
+}
