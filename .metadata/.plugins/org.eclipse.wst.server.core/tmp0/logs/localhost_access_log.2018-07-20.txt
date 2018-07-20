@@ -1,0 +1,17 @@
+127.0.0.1 - - [20/Jul/2018:19:50:45 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:50:48 +0900] "GET /WebProj2/ HTTP/1.1" 200 464
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:51:51 +0900] "POST /WebProj2/HelloStrutsAction.action;jsessionid=3283C35419A921D3BC7215F3857B96AD HTTP/1.1" 200 191
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:52:11 +0900] "POST /WebProj2/HelloStrutsAction.action;jsessionid=3283C35419A921D3BC7215F3857B96AD HTTP/1.1" 200 9436
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:19:52:25 +0900] "POST /WebProj2/HelloStrutsAction.action;jsessionid=3283C35419A921D3BC7215F3857B96AD HTTP/1.1" 200 191
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:20:01:19 +0900] "POST /WebProj2/HelloStrutsAction.action;jsessionid=3283C35419A921D3BC7215F3857B96AD HTTP/1.1" 200 191
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:20:02:45 +0900] "GET /WebProj2/ HTTP/1.1" 200 420
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:20:02:57 +0900] "POST /WebProj2/HelloStrutsAction.action HTTP/1.1" 200 9436
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:20:04:40 +0900] "POST /WebProj2/HelloStrutsAction.action HTTP/1.1" 200 191
+127.0.0.1 - - [20/Jul/2018:21:04:31 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:21:04:33 +0900] "GET /WebProj2/ HTTP/1.1" 200 702
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:21:04:37 +0900] "POST /WebProj2/WelcomeAction.action HTTP/1.1" 200 855
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:21:04:48 +0900] "POST /WebProj2/LoginAction.action HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:21:04:55 +0900] "POST /WebProj2/LoginAction.action HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:21:05:01 +0900] "POST /WebProj2/LoginAction.action HTTP/1.1" 200 146
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:21:09:51 +0900] "POST /WebProj2/WelcomeAction.action HTTP/1.1" 200 855
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:21:09:57 +0900] "POST /WebProj2/LoginAction.action HTTP/1.1" 200 150
