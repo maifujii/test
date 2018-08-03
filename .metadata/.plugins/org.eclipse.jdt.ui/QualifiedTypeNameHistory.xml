@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.internousdev.login.util.DBConnector"/>
+<fullyQualifiedTypeName name="com.internousdev.webproj4.dto.InquiryDTO"/>
+<fullyQualifiedTypeName name="com.internousdev.webproj4.dao.InquiryCompleteDAO"/>
 </qualifiedTypeNameHistroy>
