@@ -19,7 +19,7 @@ updated_date datetime
 drop table if exists item_info_transaction;
 
 create table item_info_transaction(
-id int not null primaey key auto_increment;
+id int not null primary key auto_increment,
 item_name varchar(30),
 item_price int,
 item_stock int,
@@ -33,7 +33,7 @@ create table user_buy_item_transaction(
 id int not null primary key auto_increment,
 item_transaction_id int,
 total_price int,
-total count int,
+total_count int,
 user_master_id varchar(16),
 pay varchar(30),
 insert_date datetime,

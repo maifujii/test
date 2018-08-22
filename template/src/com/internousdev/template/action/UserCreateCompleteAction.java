@@ -20,7 +20,7 @@ public class UserCreateCompleteAction extends ActionSupport implements SessionAw
 		userCreateCompleteDAO.createUser(session.get("loginUserId").toString(),
 				session.get("loginPassword").toString(),
 				session.get("userName").toString());
-		String result="SUCCESS";
+		String result=SUCCESS;
 
 		return result;
 	}
