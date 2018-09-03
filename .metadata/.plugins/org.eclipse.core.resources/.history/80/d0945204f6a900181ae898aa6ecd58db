@@ -1,9 +1,0 @@
-package com.internousdev.ecsite.dto;
-
-
-public String itemName;
-public String itemPrice;
-
-public class BuyItemDTO {
-
-}
